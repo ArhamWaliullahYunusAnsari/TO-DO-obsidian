@@ -42,8 +42,8 @@ div.todo-item-view-item span.due-date {
 }
 
 div.todo-item-view-item span.due-date.overdue {
-    background-color: #ff2400;
-    border-color: #ff2400;
+    background-color: #d65a5a;
+    border-color: #d65a5a;
 }
 
 div.todo-item-view-item span.due-date.future-due {
