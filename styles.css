@@ -37,8 +37,8 @@ div.todo-item-view-item span.due-date {
     padding: 5px 8px 5px 8px;
     font-size: 0.6em;
     border-radius: 12px;
-    background-color: #dca545;
-    border-color: #dca545;
+    background-color: #B35488;
+    border-color: #B35488;
 }
 
 div.todo-item-view-item span.due-date.overdue {
