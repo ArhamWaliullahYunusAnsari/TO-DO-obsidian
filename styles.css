@@ -37,8 +37,8 @@ div.todo-item-view-item span.due-date {
     padding: 5px 8px 5px 8px;
     font-size: 0.6em;
     border-radius: 12px;
-    background-color: #fbb034;
-    border-color: #fbb034;
+    background-color: #dca545;
+    border-color: #dca545;
 }
 
 div.todo-item-view-item span.due-date.overdue {
@@ -47,8 +47,8 @@ div.todo-item-view-item span.due-date.overdue {
 }
 
 div.todo-item-view-item span.due-date.future-due {
-    background-color: #6fdf94;
-    border-color: #6fdf94;
+    background-color: #4fa3a5;
+    border-color: #4fa3a5;
 }
 
 div.todo-item-view-item-checkbox {
